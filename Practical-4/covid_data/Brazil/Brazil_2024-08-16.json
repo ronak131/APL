@@ -1,0 +1,16 @@
+{
+    "country": "Brazil",
+    "date": "2024-08-16",
+    "confirmed_cases": {
+        "total": 23295,
+        "new": 318
+    },
+    "deaths": {
+        "total": 4137,
+        "new": 46
+    },
+    "recovered": {
+        "total": 13980,
+        "new": 282
+    }
+}

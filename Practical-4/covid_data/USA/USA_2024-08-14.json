@@ -1,0 +1,16 @@
+{
+    "country": "USA",
+    "date": "2024-08-14",
+    "confirmed_cases": {
+        "total": 64279,
+        "new": 492
+    },
+    "deaths": {
+        "total": 2037,
+        "new": 30
+    },
+    "recovered": {
+        "total": 43394,
+        "new": 50
+    }
+}

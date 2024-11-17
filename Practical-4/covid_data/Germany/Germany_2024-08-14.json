@@ -1,0 +1,16 @@
+{
+    "country": "Germany",
+    "date": "2024-08-14",
+    "confirmed_cases": {
+        "total": 12595,
+        "new": 162
+    },
+    "deaths": {
+        "total": 1847,
+        "new": 36
+    },
+    "recovered": {
+        "total": 7503,
+        "new": 222
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "country": "Nepal",
+    "date": "2024-08-21",
+    "confirmed_cases": {
+        "total": 61124,
+        "new": 319
+    },
+    "deaths": {
+        "total": 1486,
+        "new": 40
+    },
+    "recovered": {
+        "total": 41641,
+        "new": 227
+    }
+}

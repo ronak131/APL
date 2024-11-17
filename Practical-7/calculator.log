@@ -1,0 +1,3 @@
+2024-10-21 14:45:32,429 - INFO - Calculating 2 / 0.....
+2024-10-21 14:45:32,429 - ERROR - Trying to divide by Zero!!!
+2024-10-21 14:45:32,429 - WARNING - Can't perform division by zero.

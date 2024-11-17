@@ -1,0 +1,51 @@
+[
+   {
+      "country": "USA",
+      "total confirmed cases": 506385,
+      "total deaths": 18438,
+      "total recovered cases": 233641,
+      "total active cases": 254306
+   },
+   {
+      "country": "Brazil",
+      "total confirmed cases": 454602,
+      "total deaths": 20062,
+      "total recovered cases": 217537,
+      "total active cases": 217003
+   },
+   {
+      "country": "Nepal",
+      "total confirmed cases": 602278,
+      "total deaths": 21386,
+      "total recovered cases": 258675,
+      "total active cases": 322217
+   },
+   {
+      "country": "Germany",
+      "total confirmed cases": 558799,
+      "total deaths": 30229,
+      "total recovered cases": 235690,
+      "total active cases": 292880
+   },
+   {
+      "country": "India",
+      "total confirmed cases": 395483,
+      "total deaths": 21538,
+      "total recovered cases": 172506,
+      "total active cases": 201439
+   },
+   {
+      "country": "Pakistan",
+      "total confirmed cases": 461530,
+      "total deaths": 20879,
+      "total recovered cases": 267040,
+      "total active cases": 173611
+   },
+   {
+      "country": "Canada",
+      "total confirmed cases": 517720,
+      "total deaths": 16519,
+      "total recovered cases": 146968,
+      "total active cases": 354233
+   }
+]
